@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/noy3928">Ye Chan<a></h1>
     
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://ifh.cc/g/VWt6xm.jpg">
 </p>
 
 <div>
