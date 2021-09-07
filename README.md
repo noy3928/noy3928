@@ -1,39 +1,13 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/noy3928">Ye Chan<a></h1>
-    
-<p align="center">
-    <img width="200" src="https://ifh.cc/g/VWt6xm.jpg">
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Yechan&fontAlign=70&fontAlignY=40&animation=twinkling)
 
-<div>
-<strong>About Me:</strong><br>
-💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
-📚 I’m a final year Actuarial Science undergraduate in University of Malaya<br>
-📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
-🏆 My certifications: 
-<ul>
-  <li>SOA: Exam FM, Exam P</li>
-  <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
-  <li>Coursera: SAS Visual Business Analytics</li>
-  <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
-</ul>
-📫 Reach me at <a href="mailto:yijie0575@gmail.com">yijie0575@gmail.com</a><br>
-😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a><br><br><br>
+<h3 align="center">📌Stack</h3>
+<p align="center">Technology used</p>
+<div align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></img> <img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"></img> <img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"></img> <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img> <img src="https://img.shields.io/badge/jQuery-3655FF?style=flat-square&logo=jQuery&logoColor=white"></img> <img src="https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=Python&logoColor=white"></img></div>
 
-<strong>📊 My Github Stats :</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&theme=radical&hide_border=true"/><br><br>
+<h3 align="center">📫Contact</h3>
+<div align="center"><a href="https://velog.io/@uvula6921/"><img src="https://img.shields.io/badge/Blog-20c997?style=flat-square&logo=V&logoColor=white"/></a> <a href="pkj6921@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></div>
+<br>
+<br>
 
-<strong>💡 My Languages :</strong><br><br>
-<img src="https://img.shields.io/badge/-R-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&langs_count_private=true&theme=radical&card_width=445)<br><br>
-
-<strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yechan-Noh&repo=Yechan-Noh&theme=radical)](https://github.com/noy3928)
-</div>
-
-------
-Credit: [Kathryn-Jie](https://github.com/noy3928)
-Last Edited on: 15/4/2021
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uvula6921&hide=stars,issues&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvula6921&hide=css,jupyter%20notebook,html&exclude_repo=uvula6921,uvula6921.github.io&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
