@@ -7,4 +7,3 @@
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noy3928&hide=stars,issues&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noy3928&hide=css,jupyter%20notebook,html&exclude_repo=noy3928,noy3928.github.io&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
