@@ -58,7 +58,7 @@
 
 읽은 책을 사람들과 공유하는 Book SNS[Diver 해보기](https://www.bookdiver.net/)
 
-자세한 내용은 [Team-Diver-GitHub](https://github.com/Team-PandaN/Team-PandaN-Back)
+자세한 내용은 [Team-Diver-GitHub](https://github.com/sharingBookReview-SERVICE/sharingBookReview-FE)
 
 - 항해 2기 최종 프로젝트 (6주)
 - 팀 문화 형성(코드리뷰, 협업 프로세스, 기술블로그.. 등)
