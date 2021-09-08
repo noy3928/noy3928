@@ -10,7 +10,7 @@
 
 # WHO AM I?📚
 
-i'm currently learning.. Next.js, Webpack, babel🏃
+- 🏃 i'm currently learning.. Next.js, Webpack, babel
 
 ### 안녕하세요. 프론트엔드 개발자 노예찬입니다.저는...
 - 시각적으로 아름다운 것, 인터렉티브한 UX/UI에 많은 관심이 있습니다. 
