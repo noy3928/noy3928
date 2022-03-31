@@ -22,10 +22,10 @@
 ---
 ### 🛹Skils
 **Frontend**       
-- Javascript, Python
-- React
-- Redux
-- AWS(S3, CloudFront, Route 53)
+- Javascript, Typescript, Python
+- React, NextJs
+- Redux, Redux-saga
+- AWS(S3, CloudFront, Route 53, Amplify)
 
                    
 **Collaboration & Tools**              
