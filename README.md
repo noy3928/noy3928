@@ -16,7 +16,7 @@
 **Frontend**       
 - Javascript, Typescript, Python
 - React, NextJs
-- Redux, Redux-saga
+- Redux, Redux-thunk, Redux-saga, Redux-toolkit
 - AWS(S3, CloudFront, Route 53, Amplify)
 
                    
