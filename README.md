@@ -27,5 +27,5 @@
 - Git, Git Hub, Git lens, Git kraken
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb&slug=왜-virtual-dom이-더-좋은가?)](https://velog.io/@yesbb/virtual-dom%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EB%8D%94-%EC%A2%8B%EC%9D%80%EC%9D%B4%EC%9C%A0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yumyum&slug=왜-virtual-dom이-더-좋은가?)](https://velog.io/@yesbb/virtual-dom%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EB%8D%94-%EC%A2%8B%EC%9D%80%EC%9D%B4%EC%9C%A0)
 
