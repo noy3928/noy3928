@@ -27,6 +27,4 @@
 
 ### My Blog Posts : 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb)](https://velog.io/@yesbb)
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb&slug=virtual-dom의-성능이-더-좋은이유)](https://github.com/eungyeole/velog-readme-stats)
