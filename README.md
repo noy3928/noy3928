@@ -7,9 +7,6 @@
 <br>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noy3928&hide=stars,issues&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/noy3928/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noy3928&layout=compact)](https://github.com/noy3928/github-readme-stats)
- 
 
 ---
 ### 🛹Skils
@@ -31,3 +28,5 @@
 ### My Blog Posts : 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb)](https://velog.io/@yesbb)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb&slug=virtual-dom의-성능이-더-좋은이유)](https://github.com/eungyeole/velog-readme-stats)
