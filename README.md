@@ -6,9 +6,11 @@
 <br>
 <br>
 
+<div style="display:flex;">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noy3928&hide=stars,issues&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noy3928&layout=compact)](https://github.com/noy3928/github-readme-stats)
+</div>
+
 
 ---
 ### 🛹Skils
