@@ -26,8 +26,8 @@
 <br>
 
 ### My Blog Posts : 
-recent :
+recent :   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb)](https://velog.io/@yesbb)
 
-popular : 
+popular :    
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb&slug=virtual-dom의-성능이-더-좋은이유)](https://velog.io/@yesbb/virtual-dom%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EB%8D%94-%EC%A2%8B%EC%9D%80%EC%9D%B4%EC%9C%A0)
