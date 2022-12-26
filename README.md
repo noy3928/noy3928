@@ -1,7 +1,7 @@
 [![yechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=noy3928&hide=stars,issues&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/noy3928/github-readme-stats)
 
 
-### 안녕하세요 
+### 안녕하세요👋🏻 
  열정보다 꾸준함을 신뢰하는 개발자 노예찬입니다 🐢
 
 ### 저는 이런 사람입니다
