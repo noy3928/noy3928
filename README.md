@@ -15,6 +15,7 @@ recent :
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb)](https://velog.io/@yesbb)
 
 popular :    
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb&slug=리액트에서-의존성-역전-원칙을-적용해보았다feat.-좋은설계란무엇일까)]([https://velog.io/@yesbb/Nextjs%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0](https://velog.io/@yesbb/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%97%AD%EC%A0%84-%EC%9B%90%EC%B9%99%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%95%98%EB%8B%A4feat.-%EC%A2%8B%EC%9D%80%EC%84%A4%EA%B3%84%EB%9E%80%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C))   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb&slug=Nextjs에서-이미지-최적화하기)](https://velog.io/@yesbb/Nextjs%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0)   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb&slug=virtual-dom의-성능이-더-좋은이유)](https://velog.io/@yesbb/virtual-dom%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EB%8D%94-%EC%A2%8B%EC%9D%80%EC%9D%B4%EC%9C%A0)
 
