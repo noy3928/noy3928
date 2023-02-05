@@ -12,7 +12,7 @@
 
 ### 블로그 포스팅 : 
 recent :   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb&slug=객체지향의-관점으로-바라본-리액트-고급-패턴-Compound-component-Render-props)]([https://velog.io/@yesbb](https://velog.io/@yesbb/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EA%B4%80%EC%A0%90%EC%9C%BC%EB%A1%9C-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B3%A0%EA%B8%89-%ED%8C%A8%ED%84%B4-Compound-component-Render-props))
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb&slug=객체지향의-관점으로-바라본-리액트-고급-패턴-Compound-component-Render-props)]([https://velog.io/@yesbb]([https://velog.io/@yesbb/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EA%B4%80%EC%A0%90%EC%9C%BC%EB%A1%9C-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B3%A0%EA%B8%89-%ED%8C%A8%ED%84%B4-Compound-component-Render-props](https://velog.io/@yesbb/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EA%B4%80%EC%A0%90%EC%9C%BC%EB%A1%9C-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B3%A0%EA%B8%89-%ED%8C%A8%ED%84%B4-Compound-component-Render-props)))
 
 popular :    
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yesbb&slug=리액트에서-의존성-역전-원칙을-적용해보았다feat.-좋은설계란무엇일까)]([https://velog.io/@yesbb/Nextjs%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0](https://velog.io/@yesbb/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%97%AD%EC%A0%84-%EC%9B%90%EC%B9%99%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%95%98%EB%8B%A4feat.-%EC%A2%8B%EC%9D%80%EC%84%A4%EA%B3%84%EB%9E%80%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C))   
